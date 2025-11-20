@@ -13,7 +13,7 @@ USO EN GOOGLE COLAB:
 4. La animación se mostrará como HTML interactivo en el notebook
 
 USO EN LOCAL:
-1. Ejecutar: python gemini1.py
+1. Ejecutar: python Leg_Quad_Min_Opt.py
 2. La optimización tomará varios minutos
 3. Se abrirá una ventana con la animación
 
